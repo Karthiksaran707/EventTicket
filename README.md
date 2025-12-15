@@ -201,22 +201,6 @@ npm run deploy:mainnet  # Deploy to Ethereum mainnet
 - **Build**: Optimized production builds
 - **PWA**: Service worker for offline functionality
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-
-## 🙏 Acknowledgments
-
-- **OpenZeppelin** for secure smart contract libraries
-- **Hardhat** for excellent Ethereum development tools
-- **React** and **Vite** for modern frontend development
-- **Tailwind CSS** for beautiful, responsive design
-
 ---
 
 **EventChain** - Bringing transparency and security to event ticketing through blockchain technology.
