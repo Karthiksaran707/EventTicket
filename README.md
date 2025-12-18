@@ -166,6 +166,7 @@ npm test
 ### Frontend Testing
 ```bash
 cd frontend
+npm run dev
 npm run build  # Check for build errors
 npm run lint   # Check code quality
 ```
